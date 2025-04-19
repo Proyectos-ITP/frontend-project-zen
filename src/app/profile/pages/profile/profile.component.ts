@@ -20,6 +20,7 @@ import { ProfileService } from '../../services/profile.service';
 @Component({
   selector: 'app-profile',
   templateUrl: './profile.component.html',
+
   standalone: true,
   imports: [
     MatIcon,
